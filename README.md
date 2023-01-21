@@ -1,6 +1,6 @@
 # Inheritance
 
-Tugas Praktikum Modul VII
+Tugas Praktikum Modul VIII
 
 Nama : Muhammad Ikhsan Mandirri <br>
 NIM : 21104410070 <br>
